@@ -1,0 +1,18 @@
+URL: http://dev.codingexperts.in/recruit/
+
+Other Pages:
+1. About Us, URL: http://dev.codingexperts.in/recruit/about-us
+2. Our Services, URL: http://dev.codingexperts.in/recruit/our-services
+3. Terms, URL: http://dev.codingexperts.in/recruit/terms
+4. Privacy, URL: http://dev.codingexperts.in/recruit/privacy
+
+ADMIN DETAILS
+URL: http://dev.codingexperts.in/recruit/admin
+Username: admin
+Password: 123456
+
+After Login, please click on "CMS" in top navigation, URL: http://dev.codingexperts.in/recruit/admin/pages/manage/ and from here all the content can be managed.
+
+Please ignore "Contact Us" page as I am still working on that and update accordingly!
+
+Look forward!

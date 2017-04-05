@@ -1,0 +1,28 @@
+1. About us needs to have three photos name and phone numbers. 
+	1. Victor -> Provided
+	2. Jay -> Linkied In
+	3. Babita
+Passport photo needs to come on top of content.
+
+2 The contact us needs to come on home page, http://www.expertsrecruitment.com/
+
+3. Copy and paste their The Expert Tools that we employ to search candidates:
+
+4. remove the testimonial and add this  
+98 % Client satisfaction
+426 Successfully completed projects
+10 hrs Average daily working time
+20 % Year-over-year growth
+
+
+
+
+-----------------------------
+
+DONE POINTS
+1. Dubai address removed from contact page
+2. CorfuIT logo used.
+3. Home Page, replace the line "Everybody has a chance to apply his knowledge" with "We are here to give best talent and well experience for your business".
+4. Home Page, Welcome to our site - > Total Recruitment Solutions
+5. "CorfuIT Recruitment was established in 2011, with its first office in Noida, India. It has established itself as a reputed multi-faceted team of qualified consultants who understand the rapid changes taking place in the global business world. We have base office in Dubai and Branch Office in Noida and  Bangalore".  this para can go below Welcome to our site - > Total Recruitment Solutions
+6. Learn more buttons, remove them
